@@ -1,2 +1,2 @@
 # ABitRacey
-PyGame ile geliştirdiğim bir oyundur. Çok eksikleri var, zaman buldukça geliştiriyorum
+A small race game which I developed by using Pygame
